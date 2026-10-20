@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition for Sales Order'
+define service ZSB_SD_SALES_ORDER {
+  expose ZSB_SALES_HEADER_PROJECTION;
+  expose ZSB_SALES_ITEM_PROJECTION;
+}

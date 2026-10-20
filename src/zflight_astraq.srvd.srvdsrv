@@ -1,0 +1,4 @@
+@EndUserText.label: 'Flight Service'
+define service ZFlight_AstraQ {
+  expose ZI_Connection_AstraQ;
+}
